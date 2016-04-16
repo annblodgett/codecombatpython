@@ -2,6 +2,7 @@
 #Concepts Learned - Basic Syntax
 #Level Goals: 1) Your hero must survive. 2) Collect all 4 gems. 3) Get to the exit. 
 #Bonus Goals: 1) no code problems. 2) under 9 statements
+#Necessary Equipment: SIMPLE BOOTS
 
 
 #!!- Begin Code-!!

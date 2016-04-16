@@ -2,7 +2,7 @@
 #Concepts Learned - Basic Syntax
 #Level Goals: 1) Find Senick and Omarn 2) Protect them with the lightstone
 #Bonus Goals: None
-#Equipment Needed: SIMPLE BOOTS
+#Necessary Equipment: SIMPLE BOOTS
 
 #!!- Begin Code-!!
 # Your goal is to get to the right side of the map alive.
