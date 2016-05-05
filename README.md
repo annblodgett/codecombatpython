@@ -8,10 +8,14 @@ Order of the Levels
 3) Shadow Guard
 4) Forgetful Gemsmith
 5) Signs and Portents
-6) Fire Dancing
-7) Loop Da Loop
-8) Haunted Kithmaze
-9) The Second Kithmaze
-10) Dread Door
-11) Known Enemy
-12) Cupboards of Kithgard
+6) True Names
+7) The Raised Sword
+8) Enemy Mine
+9) Kithgard Librarian
+10) Fire Dancing
+11) Loop Da Loop
+12) Haunted Kithmaze
+13) The Second Kithmaze
+14) Dread Door
+15) Known Enemy
+16) Cupboards of Kithgard
